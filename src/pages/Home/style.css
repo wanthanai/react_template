@@ -1,0 +1,19 @@
+.home-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: blue;
+
+    width: 100vw;
+    min-height: 100vh;
+
+    color: var(--text-head-color);
+}
+main
+{
+    background-color: yellow;
+    width: 1200px;
+    min-height: 100vh;
+}
